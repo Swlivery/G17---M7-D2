@@ -1,23 +1,44 @@
 [
   {
-    "id": 1,
-    "name": "Super Mario Bros",
-    "stock": 10,
-    "price": 29.99,
-    "color": "Rojo"
+    "id": "0001",
+    "name": "Sekiro",
+    "stock": "43",
+    "price": "30000",
+    "color": "red"
   },
   {
-    "id": 2,
-    "name": "The Legend of Zelda",
-    "stock": 5,
-    "price": 39.99,
-    "color": "Verde"
+    "id": "0002",
+    "name": "Fifa 21",
+    "stock": "55",
+    "price": "25000",
+    "color": "blue"
   },
   {
-    "id": 3,
-    "name": "Sonic the Hedgehog",
-    "stock": 10,
-    "price": 19.99,
-    "color": "Azul"
+    "id": "0003",
+    "name": "Gears of War 4",
+    "stock": "12",
+    "price": "15000",
+    "color": "green"
+  },
+  {
+    "id": "0004",
+    "name": "Mario Tennis Aces",
+    "stock": "56",
+    "price": "35000",
+    "color": "black"
+  },
+  {
+    "id": "0005",
+    "name": "Bloodborne",
+    "stock": "12",
+    "price": "10000",
+    "color": "blue"
+  },
+  {
+    "id": "0006",
+    "name": "Forza Horizon 4",
+    "stock": "4",
+    "price": "20000",
+    "color": "red"
   }
 ]
