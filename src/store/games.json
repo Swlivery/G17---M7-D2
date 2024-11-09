@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Super Mario Bros",
+    "stock": 10,
+    "price": 29.99,
+    "color": "Rojo"
+  },
+  {
+    "id": 2,
+    "name": "The Legend of Zelda",
+    "stock": 5,
+    "price": 39.99,
+    "color": "Verde"
+  },
+  {
+    "id": 3,
+    "name": "Sonic the Hedgehog",
+    "stock": 10,
+    "price": 19.99,
+    "color": "Azul"
+  }
+]
